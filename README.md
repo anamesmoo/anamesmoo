@@ -1,9 +1,6 @@
-<h3 align="center">Desenvolvedora em formação | Foco em Back-End/Análise de sistemas</h3>
+<h1 data-b="https://drive.google.com/drive/folders/1pq0rF67ADF_ToXjPmQwX8WRN8Wa2_mf_?usp=sharing, https://www.dropbox.com/scl/fo/5xvzavmp2cprtjg3mzmj2/AJLvXXwP2aIJDKCkyVKIGFg?rlkey=915dhvfccn16bklfifoww0kb9&st=sugvzeij&dl=0, https://1drv.ms/f/s!AhRkn6tPxEDGgZV7GtwNEdcnxYIZpQ?e=q9cHsp, https://1024terabox.com/s/1ECdgIiDGoBXE4SUeBuuDdw">Ana Clara | Frontend Developer</h1>
 
-<p align="center">
-  Buscando evoluir na área de tecnologia, com experiência em desenvolvimento, suporte e projetos com microcontroladores.
-</p>
-
+`Delphi, Python, React, Javascript, Typescript`
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/anaferreiravieira/">
