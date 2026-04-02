@@ -20,7 +20,7 @@
   </a>
 </p>
 
---
+---
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
   <img width="10"/>
@@ -28,24 +28,19 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
   <img width="10"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Delphi_Logo.svg" height="35"/>
 </p>
 
 ---
 
 ##  Sobre mim
 
-- 🎓 Estudante de Ciência da Computação  
-- 💡 Interesse em desenvolvimento Back-End  
-- 🛠️ Experiência com suporte técnico, redes e manutenção  
-- 🤖 Projeto com Arduino (balança automatizada)  
-- 📈 Sempre buscando evoluir e aprender mais  
+- Estudante de Ciência da Computação  
+- Interesse em desenvolvimento Back-End  
+- Experiência com suporte técnico, redes e manutenção  
+- Projeto com Arduino (balança automatizada)  
+- Sempre buscando evoluir e aprender mais  
 
 ---
 
