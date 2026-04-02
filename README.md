@@ -1,14 +1,10 @@
-<h1 align="center">Oi 👋, eu sou a Ana Clara</h1>
-<h3 align="center">Desenvolvedora em formação | Foco em Back-End</h3>
+<h3 align="center">Desenvolvedora em formação | Foco em Back-End/Análise de sistemas</h3>
 
 <p align="center">
   Buscando evoluir na área de tecnologia, com experiência em desenvolvimento, suporte e projetos com microcontroladores.
 </p>
 
 ---
-
-## 🌐 Conecte-se comigo
-
 <p align="center">
   <a href="https://www.linkedin.com/in/anaferreiravieira/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,10 +20,7 @@
   </a>
 </p>
 
----
-
-## 🚀 Tecnologias e Ferramentas
-
+--
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
   <img width="10"/>
@@ -46,7 +39,7 @@
 
 ---
 
-## 💻 Sobre mim
+##  Sobre mim
 
 - 🎓 Estudante de Ciência da Computação  
 - 💡 Interesse em desenvolvimento Back-End  
@@ -56,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anamesmoo&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -65,7 +58,7 @@
 
 ---
 
-## ✨ Objetivo
+## Objetivo
 
 Crescer como desenvolvedora, adquirindo experiência prática e contribuindo com soluções eficientes e bem estruturadas.
 
