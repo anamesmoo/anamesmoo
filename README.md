@@ -1,6 +1,6 @@
 <h1 data-b="https://drive.google.com/drive/folders/1pq0rF67ADF_ToXjPmQwX8WRN8Wa2_mf_?usp=sharing, https://www.dropbox.com/scl/fo/5xvzavmp2cprtjg3mzmj2/AJLvXXwP2aIJDKCkyVKIGFg?rlkey=915dhvfccn16bklfifoww0kb9&st=sugvzeij&dl=0, https://1drv.ms/f/s!AhRkn6tPxEDGgZV7GtwNEdcnxYIZpQ?e=q9cHsp, https://1024terabox.com/s/1ECdgIiDGoBXE4SUeBuuDdw">Ana Clara | Analista de sistemas | Desenvolvedor Back-end</h1>
 
-`React, React Native, Javascript, Typescript`
+`Delphi · React · TypeScript | SQL · Python | Figma`
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaferreiravieira/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anamesmoo/)
